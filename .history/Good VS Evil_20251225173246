@@ -1,0 +1,25 @@
+# W1
+
+def battle_result(good, evil):
+    
+    good_worth = [1, 2, 3, 3, 4, 10]  
+    evil_worth = [1, 2, 2, 2, 3, 5, 10] 
+    
+    good_counts = list(map(int, good.split()))
+    evil_counts = list(map(int, evil.split()))
+    
+    good_total = sum(good_counts[i] * good_worth[i] for i in range(len(good_worth)))
+    evil_total = sum(evil_counts[i] * evil_worth[i] for i in range(len(evil_worth)))
+    
+    if good_total > evil_total:
+        return "Battle Result: Good triumphs over Evil"
+    elif evil_total > good_total:
+        return "Battle Result: Evil eradicates all trace of Good"
+    else:
+        return "Battle Result: No victor on this battle field"
+
+
+
+
+# W2
+
