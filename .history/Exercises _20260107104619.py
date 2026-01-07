@@ -1,0 +1,30 @@
+# this exercies are from https://github.com/Asabeneh this guy 
+
+# Exercises: Level 1
+# 1. Inside 30DaysOfPython create a folder called day_2. Inside this folder create a file named variables.py
+
+# I Wryte In This Folder I do Not Need New FOlder
+
+# 2. Write a python comment saying 'Day 2: 30 Days of python programming'
+# 30 Days of python programming'
+
+# 3. Declare a first name variable and assign a value to it
+first_name = 'ilia'
+first_name = 'ილია'
+
+
+# 4. Declare a last name variable and assign a value to it
+last_nme = 'kviciani'
+last_nme = 'კვიციანი'
+
+
+# 5. Declare a full name variable and assign a value to it
+f
+# 6. Declare a country variable and assign a value to it
+# 7. Declare a city variable and assign a value to it
+# 8. Declare an age variable and assign a value to it
+# 9. Declare a year variable and assign a value to it
+# 10. Declare a variable is_married and assign a value to it
+# 11. Declare a variable is_true and assign a value to it
+# 12. Declare a variable is_light_on and assign a value to it
+# 13. Declare multiple variable on one line
