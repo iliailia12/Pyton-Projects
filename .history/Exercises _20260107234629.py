@@ -150,11 +150,3 @@ floor_division = num1 // num2
 # გამოთვალეთ წრის ფართობი და მიანიჭეთ მნიშვნელობა ცვლადს area_of_circle
 # გამოთვალეთ წრის გარშემოწერილობა და მიანიჭეთ მნიშვნელობა ცვლადს circum_of_circle
 # მომხმარებლის შეყვანის სახით მიიღეთ რადიუსი და გამოთვალეთ ფართობი.
-
-
-import math
-radius = float(input('enter radius'))
-area_of_circle = math.pi * radius **2
-circum_of_circle = 2 * math.pi * radius
-print(area_of_circle)
-print(circum_of_circle)
