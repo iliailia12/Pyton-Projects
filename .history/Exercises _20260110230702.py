@@ -258,8 +258,6 @@ print("Perimeter:", float(input()) + float(input()) + float(input()))
 
 
 # 6. Get length and width of a rectangle using prompt. Calculate its area (area = length x width) and perimeter (perimeter = 2 x (length + width))
-
-
 # 7. Get radius of a circle using prompt. Calculate the area (area = pi x r x r) and circumference (c = 2 x pi x r) where pi = 3.14.
 # 8. Calculate the slope, x-intercept and y-intercept of y = 2x -2
 # 9. Slope is (m = y2-y1/x2-x1). Find the slope and [Euclidean distance](https://en.wikipedia.org/wiki/Euclidean_distance#:~:text=In%20mathematics%2C%20the%20Euclidean%20distance,being%20called%20the%20Pythagorean%20distance.) between point (2, 2) and point (6,10) 
@@ -275,13 +273,3 @@ print("Perimeter:", float(input()) + float(input()) + float(input()))
 # 19. Check if type of '10' is equal to type of 10
 # 20. Check if int('9.8') is equal to 10
 # 21. Writ a script that prompts the user to enter hours and rate per hour. Calculate pay of the person?
-# 22. Write a script that prompts the user to enter number of years. Calculate the number of seconds a person can live. Assume a person can live hundred years
-# 23. Write a Python script that displays the following table
-
-# ```py
-# 1 1 1 1 1
-# 2 1 2 4 8
-# 3 1 3 9 27
-# 4 1 4 16 64
-# 5 1 5 25 125
-# ```
