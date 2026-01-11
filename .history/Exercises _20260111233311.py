@@ -263,10 +263,6 @@ length = float(input("Enter length of the rectangle:  "))
 width =  float(input("enter width of the rectangle: "))
 are =  length * width
 perimeter  = 2*(length + width)
-print(area)
-print(perimeter)
-
-
 # 7. Get radius of a circle using prompt. Calculate the area (area = pi x r x r) and circumference (c = 2 x pi x r) where pi = 3.14.
 # 8. Calculate the slope, x-intercept and y-intercept of y = 2x -2
 # 9. Slope is (m = y2-y1/x2-x1). Find the slope and [Euclidean distance](https://en.wikipedia.org/wiki/Euclidean_distance#:~:text=In%20mathematics%2C%20the%20Euclidean%20distance,being%20called%20the%20Pythagorean%20distance.) between point (2, 2) and point (6,10) 

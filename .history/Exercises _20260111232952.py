@@ -260,11 +260,7 @@ print("Perimeter:", float(input()) + float(input()) + float(input()))
 # 6. Get length and width of a rectangle using prompt. Calculate its area (area = length x width) and perimeter (perimeter = 2 x (length + width))
 
 length = float(input("Enter length of the rectangle:  "))
-width =  float(input("enter width of the rectangle: "))
-are =  length * width
-perimeter  = 2*(length + width)
-print(area)
-print(perimeter)
+width =  float(input)
 
 
 # 7. Get radius of a circle using prompt. Calculate the area (area = pi x r x r) and circumference (c = 2 x pi x r) where pi = 3.14.
