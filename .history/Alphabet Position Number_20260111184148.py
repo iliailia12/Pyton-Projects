@@ -1,0 +1,1 @@
+position_alphabet = 'abcdefjhijklmnopqrstuvwxyz'
