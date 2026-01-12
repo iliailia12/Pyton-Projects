@@ -315,8 +315,6 @@ print(x , y)
 txt1 = 'python'
 print(len(txt1))
 
-txt2 = 'dragon'
-print(len(txt2))
 
 # 13. Use _and_ operator to check if 'on' is found in both 'python' and 'dragon'
 # 14. _I hope this course is not full of jargon_. Use _in_ operator to check if _jargon_ is in the sentence.
