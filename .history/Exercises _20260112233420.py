@@ -303,17 +303,9 @@ y = x **2 + 6 * x + 9
 print(x , y)
 
 x = -4
-y =  x ** 2 + 6 * x + 3
-print(x , y)
-
-x = -3
-y = x**2 + 6*x + 9
-print(x , y)
+y =  x ** 2 + 6 * x 
 
 # 12. Find the length of 'python' and 'dragon' and make a falsy comparison statement.
-
-
-
 # 13. Use _and_ operator to check if 'on' is found in both 'python' and 'dragon'
 # 14. _I hope this course is not full of jargon_. Use _in_ operator to check if _jargon_ is in the sentence.
 # 15. There is no 'on' in both dragon and python

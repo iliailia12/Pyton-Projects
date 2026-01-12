@@ -270,50 +270,14 @@ print(perimeter)
 # 7. Get radius of a circle using prompt. Calculate the area (area = pi x r x r) and circumference (c = 2 x pi x r) where pi = 3.14.
 
 pi = 3.14
-r = float(input('Enter radius:  '))
-area = pi * r * r
-circumference = 2 * pi * r
-print(area)
-print(circumference)
-
-# 8. Calculate the slope, x-intercept and y-intercept of y = 2x -2\
+r = 
 
 
-
+# 8. Calculate the slope, x-intercept and y-intercept of y = 2x -2
 # 9. Slope is (m = y2-y1/x2-x1). Find the slope and [Euclidean distance](https://en.wikipedia.org/wiki/Euclidean_distance#:~:text=In%20mathematics%2C%20the%20Euclidean%20distance,being%20called%20the%20Pythagorean%20distance.) between point (2, 2) and point (6,10) 
-
-
-import math
-x1 , y1 = 2 , 2
-x2 , y2 = 6 , 10
-slope = (y2 - y1) / (x2 - x1)
-distance = math.sqrt((x2 - x1)**2 + (y2 - y1)**2)
-print(slope) 
-print(distance)
-
-
-# 10. Compare the slopes in tasks 8 and 9. idkვერ მივხვდი ვერ დავწერე
-
-
-
+# 10. Compare the slopes in tasks 8 and 9.
 # 11. Calculate the value of y (y = x^2 + 6x + 9). Try to use different x values and figure out at what x value y is going to be 0.
-
-x = -5
-y = x **2 + 6 * x + 9
-print(x , y)
-
-x = -4
-y =  x ** 2 + 6 * x + 3
-print(x , y)
-
-x = -3
-y = x**2 + 6*x + 9
-print(x , y)
-
 # 12. Find the length of 'python' and 'dragon' and make a falsy comparison statement.
-
-
-
 # 13. Use _and_ operator to check if 'on' is found in both 'python' and 'dragon'
 # 14. _I hope this course is not full of jargon_. Use _in_ operator to check if _jargon_ is in the sentence.
 # 15. There is no 'on' in both dragon and python
@@ -322,7 +286,7 @@ print(x , y)
 # 18. Check if the floor division of 7 by 3 is equal to the int converted value of 2.7.
 # 19. Check if type of '10' is equal to type of 10
 # 20. Check if int('9.8') is equal to 10
-# 21. Writ a script that prompts the user to enter hours and rate per hour. Calculate pay of the person? 
+# 21. Writ a script that prompts the user to enter hours and rate per hour. Calculate pay of the person?
 # 22. Write a script that prompts the user to enter number of years. Calculate the number of seconds a person can live. Assume a person can live hundred years
 # 23. Write a Python script that displays the following table
 
