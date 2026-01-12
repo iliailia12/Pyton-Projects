@@ -319,13 +319,7 @@ txt2 = 'dragon'
 print(len(txt2))
 
 txt3 = 'this is my fullstack dev jurney and aso i hate shchool'
-print((len(txt3)))
-
-txt3 = 'i like coding'
-print((len(txt3)))
-
-
-
+print((len))
 # 13. Use _and_ operator to check if 'on' is found in both 'python' and 'dragon'
 # 14. _I hope this course is not full of jargon_. Use _in_ operator to check if _jargon_ is in the sentence.
 # 15. There is no 'on' in both dragon and python

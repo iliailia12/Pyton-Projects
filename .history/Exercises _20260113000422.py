@@ -323,9 +323,6 @@ print((len(txt3)))
 
 txt3 = 'i like coding'
 print((len(txt3)))
-
-
-
 # 13. Use _and_ operator to check if 'on' is found in both 'python' and 'dragon'
 # 14. _I hope this course is not full of jargon_. Use _in_ operator to check if _jargon_ is in the sentence.
 # 15. There is no 'on' in both dragon and python
