@@ -788,9 +788,6 @@ print(company)
 
 
 # 5. Print the length of the company string using _len()_ method and _print()_.
-
-
-
 # 6. Change all the characters to uppercase letters using _upper()_ method.
 # 7. Change all the characters to lowercase letters using _lower()_ method.
 # 8. Use capitalize(), title(), swapcase() methods to format the value of the string _Coding For All_.

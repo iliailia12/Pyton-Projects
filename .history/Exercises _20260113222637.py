@@ -775,22 +775,12 @@ print(text)
 
 # 2. Concatenate the string 'Coding', 'For' , 'All' to a single string, 'Coding For All'.
 
-string_Concatenate = 'conding' + 'for' + 'fun'
+s
+
 
 # 3. Declare a variable named company and assign it to an initial value "Coding For All".
-
-company = 'Coding For All'
-
 # 4. Print the variable company using _print()_.
-
-company = 'Microsoft'
-print(company)
-
-
 # 5. Print the length of the company string using _len()_ method and _print()_.
-
-
-
 # 6. Change all the characters to uppercase letters using _upper()_ method.
 # 7. Change all the characters to lowercase letters using _lower()_ method.
 # 8. Use capitalize(), title(), swapcase() methods to format the value of the string _Coding For All_.
