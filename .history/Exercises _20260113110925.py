@@ -334,19 +334,7 @@ is_teacher = False
 # bonus 
 bonus_txt1 = 'Programming'
 bonus_txt2 = 'coding'
-bonus_txt3 = 'i like codins so much'
-bonus_txt4 = 'phone'
-
-
-print(len(bonus_txt1))
-print(len(bonus_txt2))
-print(len(bonus_txt3))
-print(len(bonus_txt4))
-
-
-print(len(bonus_txt1) < len(bonus_txt2))    
-print(len(bonus_txt2) > len(bonus_txt4))   
-print(len(bonus_txt4) == 10)               
+bonus_txt3 = ''
 
 
 # 13. Use _and_ operator to check if 'on' is found in both 'python' and 'dragon'

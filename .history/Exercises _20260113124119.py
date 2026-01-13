@@ -338,16 +338,6 @@ bonus_txt3 = 'i like codins so much'
 bonus_txt4 = 'phone'
 
 
-print(len(bonus_txt1))
-print(len(bonus_txt2))
-print(len(bonus_txt3))
-print(len(bonus_txt4))
-
-
-print(len(bonus_txt1) < len(bonus_txt2))    
-print(len(bonus_txt2) > len(bonus_txt4))   
-print(len(bonus_txt4) == 10)               
-
 
 # 13. Use _and_ operator to check if 'on' is found in both 'python' and 'dragon'
 # 14. _I hope this course is not full of jargon_. Use _in_ operator to check if _jargon_ is in the sentence.

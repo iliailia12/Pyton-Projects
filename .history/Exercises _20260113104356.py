@@ -124,7 +124,7 @@ print(name , age , birth_year , is_married , is_student , first_name , last_nme 
 
 print(type(first_name)) 
 print(type(last_nme))
-
+print(type(country))
 print(type(city))
 print(type(age))
 print(type(year))
@@ -328,26 +328,7 @@ is_maried = False
 is_strudent = True
 know_coding = True
 lovs_coding = True
-is_adult = False
-is_teacher = False
-
-# bonus 
-bonus_txt1 = 'Programming'
-bonus_txt2 = 'coding'
-bonus_txt3 = 'i like codins so much'
-bonus_txt4 = 'phone'
-
-
-print(len(bonus_txt1))
-print(len(bonus_txt2))
-print(len(bonus_txt3))
-print(len(bonus_txt4))
-
-
-print(len(bonus_txt1) < len(bonus_txt2))    
-print(len(bonus_txt2) > len(bonus_txt4))   
-print(len(bonus_txt4) == 10)               
-
+is_adult = FA
 
 # 13. Use _and_ operator to check if 'on' is found in both 'python' and 'dragon'
 # 14. _I hope this course is not full of jargon_. Use _in_ operator to check if _jargon_ is in the sentence.
