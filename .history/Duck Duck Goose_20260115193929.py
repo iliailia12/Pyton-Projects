@@ -115,13 +115,5 @@ while True:
         print('Invalid command. Type "help" to see available commands.')
 
 
-# # enumerate() არის Python-ის ჩაშენებული (built-in) ფუნქცია, რომელიც გამოიყენება იტერირებადი ობიექტის (მაგ. სიის, ტუპლის, სტრინგის) ელემენტებზე ინდექსთან ერთად გასავლელად.
-# # ის აბრუნებს წყვილებს (ინდექსი, ელემენტი).
-
-# strip() არის სტრინგის (string) მეთოდი Python-ში, რომელიც შლის ცარიელ სიმბოლოებს სტრინგის დასაწყისიდან და ბოლოდან
-
-
-# # enumerate() is a built-in Python function used to iterate over the elements of an iterable object (e.g. list, tuple, string) by index.
-# # It returns pairs (index, element).
-
-# strip() is a string method in Python that removes whitespace characters from the beginning and end of a string
+enumerate() არის Python-ის ჩაშენებული (built-in) ფუნქცია, რომელიც გამოიყენება იტერირებადი ობიექტის (მაგ. სიის, ტუპლის, სტრინგის) ელემენტებზე ინდექსთან ერთად გასავლელად.
+# ის აბრუნებს წყვილებს (ინდექსი, ელემენტი).
