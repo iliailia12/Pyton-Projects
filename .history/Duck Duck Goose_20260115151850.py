@@ -73,4 +73,3 @@ while True:
         break
     else:
         print('invalid command')
-        

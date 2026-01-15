@@ -12,7 +12,7 @@ Available commands:
 
 # help — Show this help menu
 
-# start — Start the game
+start — Start the game
 
 # players — Show the list of players
 
@@ -20,9 +20,9 @@ Available commands:
 
 # remove — Remove a player
 
-# status — Show current game status
+status — Show current game status
 
-# exit — Exit the game
+exit — Exit the game
 
 Notes:
 
@@ -60,17 +60,3 @@ while True:
             print('no players yet')
         else:
             print(player_list)
-    elif Commands == 'status':
-        print(f'{game} started')
-        print(f'{len(player_list)}')
-    elif Commands == 'start':
-        if len(player_list) <2:
-            print('not valid players')
-        else:
-            game = True
-            print('Game started')
-    elif Commands == 'exit':
-        break
-    else:
-        print('invalid command')
-        

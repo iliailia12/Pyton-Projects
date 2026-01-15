@@ -1,6 +1,8 @@
 PLAYER_LIMIT = 30
-game = False
-
+try:
+    player_count = int(input('Enter number of players (max 30): '))
+except ValueError:
+    print('This is ivalid valiu error')
 
 player_list = []
 
@@ -12,17 +14,17 @@ Available commands:
 
 # help — Show this help menu
 
-# start — Start the game
+start — Start the game
 
-# players — Show the list of players
+players — Show the list of players
 
 # add — Add a new player
 
 # remove — Remove a player
 
-# status — Show current game status
+status — Show current game status
 
-# exit — Exit the game
+exit — Exit the game
 
 Notes:
 
@@ -56,21 +58,4 @@ while True:
         else:
             print('player name is not in the list')
     elif Commands == 'players':
-        if not  player_list :
-            print('no players yet')
-        else:
-            print(player_list)
-    elif Commands == 'status':
-        print(f'{game} started')
-        print(f'{len(player_list)}')
-    elif Commands == 'start':
-        if len(player_list) <2:
-            print('not valid players')
-        else:
-            game = True
-            print('Game started')
-    elif Commands == 'exit':
-        break
-    else:
-        print('invalid command')
-        
+        if n player_list 

@@ -22,7 +22,7 @@ Available commands:
 
 # status — Show current game status
 
-# exit — Exit the game
+exit — Exit the game
 
 Notes:
 
@@ -65,12 +65,4 @@ while True:
         print(f'{len(player_list)}')
     elif Commands == 'start':
         if len(player_list) <2:
-            print('not valid players')
-        else:
-            game = True
-            print('Game started')
-    elif Commands == 'exit':
-        break
-    else:
-        print('invalid command')
-        
+            print('not ')

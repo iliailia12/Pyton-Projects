@@ -1,0 +1,1 @@
+PLAYER_LIMIT = 30

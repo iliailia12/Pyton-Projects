@@ -1,0 +1,16 @@
+def solution(lst):
+    x = lst[0]
+    y = 1
+    
+    while x !=y:
+    if:
+        return x-=y
+    else:
+        y = y - x
+    return lst
+
+def solushen(lst):
+    a = lst[0]
+    b = 1
+    
+    while a <len(lst):

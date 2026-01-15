@@ -72,5 +72,3 @@ while True:
     elif Commands == 'exit':
         break
     else:
-        print('invalid command')
-        

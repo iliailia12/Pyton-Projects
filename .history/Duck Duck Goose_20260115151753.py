@@ -22,7 +22,7 @@ Available commands:
 
 # status — Show current game status
 
-# exit — Exit the game
+exit — Exit the game
 
 Notes:
 
@@ -69,8 +69,4 @@ while True:
         else:
             game = True
             print('Game started')
-    elif Commands == 'exit':
-        break
-    else:
-        print('invalid command')
-        
+    

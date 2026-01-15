@@ -71,6 +71,3 @@ while True:
             print('Game started')
     elif Commands == 'exit':
         break
-    else:
-        print('invalid command')
-        
