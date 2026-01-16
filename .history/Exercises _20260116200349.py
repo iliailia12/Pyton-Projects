@@ -790,13 +790,8 @@ print(company)
 # 5. Print the length of the company string using _len()_ method and _print()_.
 
 print = ('string')
-print(len(print))
 
 # 6. Change all the characters to uppercase letters using _upper()_ method.
-
-uper_varible = 'this varibli is uppercase'
-print(uper_varible.upper)
-
 # 7. Change all the characters to lowercase letters using _lower()_ method.
 # 8. Use capitalize(), title(), swapcase() methods to format the value of the string _Coding For All_.
 # 9. Cut(slice) out the first word of _Coding For All_ string.

@@ -793,7 +793,6 @@ print = ('string')
 print(len(print))
 
 # 6. Change all the characters to uppercase letters using _upper()_ method.
-
 uper_varible = 'this varibli is uppercase'
 print(uper_varible.upper)
 
