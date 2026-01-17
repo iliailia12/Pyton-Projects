@@ -1,0 +1,1 @@
+function position(0letter)

@@ -805,28 +805,9 @@ print(lower_case.lower())
 # 8. Use capitalize(), title(), swapcase() methods to format the value of the string _Coding For All_.
 
 string_value = 'Coding For All'
-
-print(string_value.capitaliz())
-print(string_value.title())
-print(string_value.swapcase())
-
+stri
 # 9. Cut(slice) out the first word of _Coding For All_ string.
-
-string_value = "Coding For All"
-first_word = string_value[:6]
-print(first_word)
-
-
 # 10. Check if _Coding For All_ string contains a word Coding using the method index, find or other methods.
-
-# i do it in like 4 or 5 ways
-# W1 find metod
-
-if string_value.find('Coding') != -1:
-    print('contains the world Coding')
-    
-# I'm tired of doing it.
-
 # 11. Replace the word coding in the string 'Coding For All' to Python.
 # 12. Change Python for Everyone to Python for All using the replace method or other methods.
 # 13. Split the string 'Coding For All' using space as the separator (split()) .

@@ -824,8 +824,7 @@ print(first_word)
 
 if string_value.find('Coding') != -1:
     print('contains the world Coding')
-    
-# I'm tired of doing it.
+
 
 # 11. Replace the word coding in the string 'Coding For All' to Python.
 # 12. Change Python for Everyone to Python for All using the replace method or other methods.

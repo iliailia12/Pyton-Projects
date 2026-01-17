@@ -1,0 +1,10 @@
+function position(letter) {
+    const LETTERS = 'abcdefghijklmnopqrstuvwxyz';
+    letter = letter.toLowerCase();
+
+    if (LETTERS.includes(letter)) {
+        return `Position of Letter: ${LETTERS.indexOf(letter) + 1}`;
+    } else {
+        return 'Invalid letter';
+    }
+}
