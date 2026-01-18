@@ -8,4 +8,4 @@ function position(letter){
     } 
 }
 
-console.log(position(letter))
+console.log(position(letter)

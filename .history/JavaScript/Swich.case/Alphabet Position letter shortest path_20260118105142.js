@@ -7,5 +7,3 @@ function position(letter){
         else{ return 'invalid letter'}
     } 
 }
-
-console.log(position(letter))

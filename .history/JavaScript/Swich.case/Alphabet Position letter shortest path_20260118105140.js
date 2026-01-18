@@ -1,3 +1,4 @@
+
 function position(letter){
     const letter = 'abcdefghijklmnopqrstuvwxyz'
     for (let i = 0; i < letters.length; i++){
@@ -7,5 +8,3 @@ function position(letter){
         else{ return 'invalid letter'}
     } 
 }
-
-console.log(position(letter))

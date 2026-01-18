@@ -34,8 +34,7 @@ function position(letter) {
 
     if (LETTERS.includes(letter)) {
         return `Position of Letter: ${LETTERS.indexOf(letter) + 1}`;
-    }
-    else {
+    } else {
         return 'Invalid letter';
     }
 }
