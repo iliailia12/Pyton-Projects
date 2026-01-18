@@ -5,3 +5,4 @@ function position(letter) {
         ? `Position of Letter: ${index + 1}` 
         : 'Invalid letter';
 }
+
