@@ -231,7 +231,3 @@ function position(letter) {
         default: return 'invalid letter';
     }
 }
-
-console.log(position('j')); // 10
-console.log(position('A')); // 1
-console.log(position('1')); // invalid letter
