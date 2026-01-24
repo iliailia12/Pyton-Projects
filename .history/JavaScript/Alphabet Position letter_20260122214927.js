@@ -1,3 +1,17 @@
+// Alphabet Position letter
+// 8  TERNARY OPERATOR
+// 7  IF ELSE
+// 6  SWICH CASE 
+// 5  FOR LOOP
+// 4  RETURN 
+// 3  to work on the website
+// 2  Object
+// 1  Object IF ELSE
+
+
+
+// PHYTON WERSION      Alphabet Position letter shortest path
+
 def position(letter):
     if letter == 'a':
         return 'Position of alphabet: 1'
@@ -57,3 +71,25 @@ def position(letter):
 
 letter = input("Enter a letter: ").lower()
 print(position(letter))
+
+
+
+
+# მოკლე გზა
+# Shortest path
+
+
+
+
+// საუკეთესო სინტაქსი 
+
+
+function position(letter){
+    if (letter === 'a'){
+        console.log('Position of alphabet: 1 ')
+    }else if(letter === 'b'){
+        console.log('Position of alphabet: 2 ')
+    }else if (letter === 'c'){
+        console.log('Position of alphabet: 3 ')
+    }
+}

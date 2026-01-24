@@ -1,0 +1,120 @@
+# 🚀 Programming Projects
+
+ეს რეპოზიტორია წარმოადგენს ჩემს სასწავლო სივრცეს, სადაც ვაგროვებ პროექტებსა და პრაქტიკულ დავალებებს **Python**-სა და **JavaScript**-ში.  
+მიზანია პროგრამირების საფუძვლების გამყარება, ალგორითმული აზროვნების განვითარება და რეალურ პროექტებზე მუშაობისთვის მომზადება.
+
+---
+
+## 📂 პროექტის სტრუქტურა
+
+### 🐍 Python
+Python-ში შესრულებული სავარჯიშოები და მცირე პროექტები:
+- ძირითადი სინტაქსი
+- ფუნქციები და მოდულები
+- ციკლები და პირობითი ოპერატორები
+- ალგორითმები და ლოგიკური ამოცანები
+- პრაქტიკული მინი-პროექტები
+
+### 🟨 JavaScript
+JavaScript-ის სასწავლო მასალები და პრაქტიკული ამოცანები:
+- JavaScript-ის საფუძვლები
+- ფუნქციები და ლოგიკა
+- პრაქტიკული მაგალითები
+
+### 🧠 Codewars
+Codewars პლატფორმაზე ამოხსნილი ამოცანები:
+- სხვადასხვა სირთულის ქათები
+- ალგორითმული აზროვნების გაუმჯობესება
+- კოდის ოპტიმიზაცია და სისუფთავე
+
+### ✏️ Exercises
+ზოგადი პროგრამირების სავარჯიშოები და ლოგიკური ამოცანები.
+
+---
+
+## 🎯 მიზნები
+- Python და JavaScript-ის საფუძვლების სიღრმისეულად შესწავლა
+- პრაქტიკული გამოცდილების დაგროვება
+- პრობლემების გადაჭრის უნარის განვითარება
+- რეალურ პროექტებზე მუშაობისთვის მომზადება
+
+---
+
+## 🛠 გამოყენებული ტექნოლოგიები
+- Python 🐍
+- JavaScript 🟨
+- Codewars 💡
+
+---
+
+## 📌 შენიშვნა
+რეპოზიტორია რეგულარულად განახლდება ახალი სავარჯიშოებითა და პროექტებით.
+
+---
+
+📚 *Learning by doing.*
+
+
+
+
+
+
+
+
+
+
+# 🚀 Programming Projects
+
+This repository contains my learning projects and practice exercises in **Python** and **JavaScript**.  
+It serves as a personal learning space to strengthen programming fundamentals, improve algorithmic thinking, and gain hands-on experience through real-world practice.
+
+---
+
+## 📂 Project Structure
+
+### 🐍 Python
+Projects and exercises written in Python, including:
+- Core syntax
+- Functions and modules
+- Loops and conditionals
+- Algorithms and problem-solving
+- Small practical projects
+
+### 🟨 JavaScript
+Learning materials and practice tasks related to JavaScript:
+- JavaScript fundamentals
+- Logic and functions
+- Practical coding exercises
+
+### 🧠 Codewars
+Solutions to challenges from the Codewars platform:
+- Problems of various difficulty levels
+- Algorithmic thinking practice
+- Code optimization and clean coding
+
+### ✏️ Exercises
+General programming exercises and logic-based problems.
+
+---
+
+## 🎯 Goals
+- Build a strong foundation in Python and JavaScript
+- Gain practical coding experience
+- Improve problem-solving and algorithmic skills
+- Prepare for real-world development projects
+
+---
+
+## 🛠 Technologies Used
+- Python 🐍
+- JavaScript 🟨
+- Codewars 💡
+
+---
+
+## 📌 Notes
+This repository is continuously updated with new exercises and projects.
+
+---
+
+📚 *Learning by doing.*

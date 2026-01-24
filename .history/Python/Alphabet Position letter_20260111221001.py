@@ -57,3 +57,9 @@ def position(letter):
 
 letter = input("Enter a letter: ").lower()
 print(position(letter))
+
+
+
+
+# მოკლე გზა
+# Shortest path
