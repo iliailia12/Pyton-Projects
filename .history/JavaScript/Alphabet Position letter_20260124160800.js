@@ -549,5 +549,4 @@ function position(letter) {
 }
 
 
-// 4  SWICH CASE 
-
+// 6  SWICH CASE 

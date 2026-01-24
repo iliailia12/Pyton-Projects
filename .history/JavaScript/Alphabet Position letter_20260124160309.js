@@ -547,7 +547,3 @@ function position(letter) {
         return 'Position of alphabet: 26';
     else return 'invalid letter';
 }
-
-
-// 4  SWICH CASE 
-
