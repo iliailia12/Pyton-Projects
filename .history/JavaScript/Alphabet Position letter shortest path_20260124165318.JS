@@ -117,4 +117,4 @@ function position(letter) {
 
 // RETURN
 
-// to work on the website დამეზარა ძაან  ii am beet too lazy for that so comming soon May 2026, 2020, New update Arrow function in JavaScript New projects version with arrow function and arrays and also arrow function and array together
+// to work on the website დამეზარა ძაან 

@@ -1,9 +1,8 @@
 // Alphabet Position letter shortest path
 // ubdate later
 // 9  ARR
-// 10 Arrow function  
+// 10 Arroe function  comming 
 
-// May 2026, 2020, New update Arrow function in JavaScript New projects version with arrow function and arrays and also arrow function and array together
 
 // 8  TERNARY OPERATOR
 // 7  IF ELSE
@@ -117,4 +116,4 @@ function position(letter) {
 
 // RETURN
 
-// to work on the website დამეზარა ძაან  ii am beet too lazy for that so comming soon May 2026, 2020, New update Arrow function in JavaScript New projects version with arrow function and arrays and also arrow function and array together
+// to work on the website დამეზარა ძაან 
