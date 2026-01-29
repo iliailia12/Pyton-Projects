@@ -727,107 +727,89 @@ switch (letter){
 }
 
 
-// 4  SWICH CASE return 
+// 4  SWICH CASE console.log 
 // რეკომენდირებული სინტაქსი
 
-function getAlphabetPosition(letter) {
-    switch (letter) {
-        case 'a': 
-        return 'Position of alphabet: 1'
-        case 'b': 
-        return 'Position of alphabet: 2'
-        case 'c': 
-        return 'Position of alphabet: 3'
-        case 'd': 
-        return 'Position of alphabet: 4'
-        case 'e': 
-        return 'Position of alphabet: 5'
-        case 'f': 
-        return 'Position of alphabet: 6'
-        case 'g': 
-        return 'Position of alphabet: 7'
-        case 'h': 
-        return 'Position of alphabet: 8'
-        case 'i': 
-        return 'Position of alphabet: 9'
-        case 'j': 
-        return 'Position of alphabet: 10'
-        case 'k': 
-        return 'Position of alphabet: 11'
-        case 'l': 
-        return 'Position of alphabet: 12'
-        case 'm': 
-        return 'Position of alphabet: 13'
-        case 'n': 
-        return 'Position of alphabet: 14'
-        case 'o': 
-        return 'Position of alphabet: 15'
-        case 'p': 
-        return 'Position of alphabet: 16'
-        case 'q': 
-        return 'Position of alphabet: 17'
-        case 'r': 
-        return 'Position of alphabet: 18'
-        case 's': 
-        return 'Position of alphabet: 19'
-        case 't': 
-        return 'Position of alphabet: 20'
-        case 'u': 
-        return 'Position of alphabet: 21'
-        case 'v': 
-        return 'Position of alphabet: 22'
-        case 'w': 
-        return 'Position of alphabet: 23'
-        case 'x': 
-        return 'Position of alphabet: 24'
-        case 'y': 
-        return 'Position of alphabet: 25'
-        case 'z': 
-        return 'Position of alphabet: 26'
-        default: 
-        return 'Not a letter'
-    }
+
+
+switch (letter){
+    case 'a':
+        console.log('Position of alphabet: 1')
+        break
+    case 'b':
+        retur'Position of alphabet: 2')
+        break
+    case 'c':
+        retur'Position of alphabet: 3')
+        break
+    case 'd':
+        retur'Position of alphabet: 4')
+        break
+    case 'e':
+        retur'Position of alphabet: 5')
+        break
+    case 'f':
+        retur'Position of alphabet: 6')
+        break
+    case 'g':
+        retur'Position of alphabet: 7')
+        break
+    case 'h':
+        retur'Position of alphabet: 8')
+        break
+    case 'i':
+        retur'Position of alphabet: 9')
+        break
+    case 'j':
+        retur'Position of alphabet: 10')
+        break
+    case 'k':
+        retur'Position of alphabet: 11')
+        break
+    case 'l':
+        retur'Position of alphabet: 12')
+        break
+    case 'm':
+        retur'Position of alphabet: 13')
+        break
+    case 'n':
+        retur'Position of alphabet: 14')
+        break
+    case 'o':
+        retur'Position of alphabet: 15')
+        break
+    case 'p':
+        retur'Position of alphabet: 16')
+        break
+    case 'q':
+        retur'Position of alphabet: 17')
+        break
+    case 'r':
+        retur'Position of alphabet: 18')
+        break
+    case 's':
+        retur'Position of alphabet: 19')
+        break
+    case 't':
+        retur'Position of alphabet: 20')
+        break
+    case 'u':
+        retur'Position of alphabet: 21')
+        break
+    case 'v':
+        retur'Position of alphabet: 22')
+        break
+    case 'w':
+        retur'Position of alphabet: 23')
+        break
+    case 'x':
+        retur'Position of alphabet: 24')
+        break
+    case 'y':
+        retur'Position of alphabet: 25')
+        break
+    case 'z':
+        retur'Position of alphabet: 26')
+        break
+        default: retur'Not a letter')
 }
-
-
-// სუფთა მოკლე კარგი
-
-function getAlphabetPosition(letter) {
-    switch (letter) {
-        case 'a': return 'Position of alphabet: 1'
-        case 'b': return 'Position of alphabet: 2'
-        case 'c': return 'Position of alphabet: 3'
-        case 'd': return 'Position of alphabet: 4'
-        case 'e': return 'Position of alphabet: 5'
-        case 'f': return 'Position of alphabet: 6'
-        case 'g': return 'Position of alphabet: 7'
-        case 'h': return 'Position of alphabet: 8'
-        case 'i': return 'Position of alphabet: 9'
-        case 'j': return 'Position of alphabet: 10'
-        case 'k': return 'Position of alphabet: 11'
-        case 'l': return 'Position of alphabet: 12'
-        case 'm': return 'Position of alphabet: 13'
-        case 'n': return 'Position of alphabet: 14'
-        case 'o': return 'Position of alphabet: 15'
-        case 'p': return 'Position of alphabet: 16'
-        case 'q': return 'Position of alphabet: 17'
-        case 'r': return 'Position of alphabet: 18'
-        case 's': return 'Position of alphabet: 19'
-        case 't': return 'Position of alphabet: 20'
-        case 'u': return 'Position of alphabet: 21'
-        case 'v': return 'Position of alphabet: 22'
-        case 'w': return 'Position of alphabet: 23'
-        case 'x': return 'Position of alphabet: 24'
-        case 'y': return 'Position of alphabet: 25'
-        case 'z': return 'Position of alphabet: 26'
-        default: return 'Not a letter'
-    }
-}
-
-
-
-// 5  FOR LOOP
-// 4  RETURN 
-// 3  to work on the website
-// 2  Object
-// 1  Object IF ELSE
