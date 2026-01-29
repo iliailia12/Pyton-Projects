@@ -601,7 +601,7 @@ switch (letter){
     case 'p':
         console.log('Position of alphabet: 16')
         break
-    case 'q':
+    case 'p':
         console.log('Position of alphabet: 17')
         break
     case 'r':
