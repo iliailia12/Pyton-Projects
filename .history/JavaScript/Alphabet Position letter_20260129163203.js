@@ -631,7 +631,6 @@ switch (letter){
     case 'z':
         console.log('Position of alphabet: 26')
         break
-        default: console.log('Not a letter')
 }
 
 

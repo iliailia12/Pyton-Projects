@@ -631,7 +631,6 @@ switch (letter){
     case 'z':
         console.log('Position of alphabet: 26')
         break
-        default: console.log('Not a letter')
 }
 
 
@@ -691,7 +690,6 @@ switch (letter){
         break
     case 'z':console.log('Position of alphabet: 26')
         break
-        default: console.log('Not a letter')
 }
 
 // სიფთა მოკლე  სინტაქსი 
@@ -718,10 +716,9 @@ switch (letter){
     case 's':console.log('Position of alphabet: 19');break
     case 't':console.log('Position of alphabet: 20');break
     case 'u':console.log('Position of alphabet: 21');break
-    case 'v':console.log('Position of alphabet: 22');break
-    case 'w':console.log('Position of alphabet: 23');break
-    case 'x':console.log('Position of alphabet: 24');break
-    case 'y':console.log('Position of alphabet: 25');break
-    case 'z':console.log('Position of alphabet: 26');break
-    default: console.log('Not a letter')
+    case 'v':console.log('Position of alphabet: 22')break
+    case 'w':console.log('Position of alphabet: 23')break
+    case 'x':console.log('Position of alphabet: 24')break
+    case 'y':console.log('Position of alphabet: 25')break
+    case 'z':console.log('Position of alphabet: 26')break
 }

@@ -631,7 +631,6 @@ switch (letter){
     case 'z':
         console.log('Position of alphabet: 26')
         break
-        default: console.log('Not a letter')
 }
 
 
@@ -691,7 +690,6 @@ switch (letter){
         break
     case 'z':console.log('Position of alphabet: 26')
         break
-        default: console.log('Not a letter')
 }
 
 // სიფთა მოკლე  სინტაქსი 
@@ -711,17 +709,16 @@ switch (letter){
     case 'l':console.log('Position of alphabet: 12');break
     case 'm':console.log('Position of alphabet: 13');break
     case 'n':console.log('Position of alphabet: 14');break
-    case 'o':console.log('Position of alphabet: 15');break
-    case 'p':console.log('Position of alphabet: 16');break
-    case 'q':console.log('Position of alphabet: 17');break
-    case 'r':console.log('Position of alphabet: 18');break
-    case 's':console.log('Position of alphabet: 19');break
-    case 't':console.log('Position of alphabet: 20');break
-    case 'u':console.log('Position of alphabet: 21');break
-    case 'v':console.log('Position of alphabet: 22');break
-    case 'w':console.log('Position of alphabet: 23');break
-    case 'x':console.log('Position of alphabet: 24');break
-    case 'y':console.log('Position of alphabet: 25');break
-    case 'z':console.log('Position of alphabet: 26');break
-    default: console.log('Not a letter')
+    case 'o':console.log('Position of alphabet: 15')break
+    case 'p':console.log('Position of alphabet: 16')break
+    case 'q':console.log('Position of alphabet: 17')break
+    case 'r':console.log('Position of alphabet: 18')break
+    case 's':console.log('Position of alphabet: 19')break
+    case 't':console.log('Position of alphabet: 20')break
+    case 'u':console.log('Position of alphabet: 21')break
+    case 'v':console.log('Position of alphabet: 22')break
+    case 'w':console.log('Position of alphabet: 23')break
+    case 'x':console.log('Position of alphabet: 24')break
+    case 'y':console.log('Position of alphabet: 25')break
+    case 'z':console.log('Position of alphabet: 26')break
 }
