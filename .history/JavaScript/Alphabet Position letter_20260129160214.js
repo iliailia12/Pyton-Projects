@@ -581,7 +581,7 @@ switch (letter){
         console.log('Position of alphabet: 9')
         break
     case 'j':
-        console.log('Position of alphabet: 10')
+        console.log('Position of alphabet: 20')
         break
     case 'k':
         console.log('Position of alphabet: 11')
@@ -628,6 +628,5 @@ switch (letter){
         console.log('Position of alphabet: 25')
         break
     case 'z':
-        console.log('Position of alphabet: 26')
-        break
+        console.log('Position of alphabet: 1'     break
 }

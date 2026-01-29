@@ -2,7 +2,7 @@
 // ubdate later
 // 9  ARR
 // 10 Arrow function  
-// helper functions
+// 
 
 // May 2026, 2020, New update Arrow function in JavaScript New projects version with arrow function and arrays and also arrow function and array together
 
