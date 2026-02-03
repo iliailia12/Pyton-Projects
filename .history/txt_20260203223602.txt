@@ -1,0 +1,45 @@
+12) ternary opoerator Object 
+11) ARR
+10) Arrow function  
+9)  helper functions
+8)  TERNARY OPERATOR 
+7)  IF ELSE 
+6)  SWICH CASE 
+5)  FOR LOOP 
+4)  RETURN 
+3)  to work on the website
+2)  Object 
+1)  Object IF ELSE  
+
+
+while
+
+do...while
+for...of
+for...in
+Array.map
+Array.filter
+Array.reduce
+Logical AND
+Logical OR
+
+
+
+
+
+10) Nullish coalescing ვერსია
+
+11) Optional chaining ვერსია
+
+➡️ უსაფრთხო წვდომა
+
+user?.profile?.name;
+
+12) try / catch ვერსია
+
+➡️ შეცდომების კონტროლი
+
+try { } catch (e) { }
+
+13) Callback function 
+ Promise

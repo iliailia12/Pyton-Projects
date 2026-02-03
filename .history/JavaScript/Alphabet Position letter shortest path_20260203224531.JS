@@ -127,18 +127,18 @@ function position(letter) {
 // 2)  Object
 
 
-// 13) while
-// 14) do...while
-// 15) for...of
-// 16) for...in
-// 17) Array.map
-// 18) Array.filter
-// 19) Array.reduce
-// 20) Logical AND
-// 21) Logical OR
-// 22) Nullish coalescing
-// 23) Optional chaining
-// 24) try / catch
-// 25) Callback function
-// 26) Promise 
-// 27) Class-based
+13) while
+14) do...while
+15) for...of
+16) for...in
+17) Array.map
+18) Array.filter
+19) Array.reduce
+20) Logical AND
+21) Logical OR
+22) Nullish coalescing
+23) Optional chaining
+24) try / catch
+25) Callback function
+26) Promise 
+27) Class-based

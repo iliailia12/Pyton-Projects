@@ -1,0 +1,18 @@
+12) ternary opoerator Object /
+11) ARR
+10) Arrow function  
+9)  helper functions
+8)  TERNARY OPERATOR
+7)  IF ELSE
+6)  SWICH CASE 
+5)  FOR LOOP /
+4)  RETURN 
+3)  to work on the website
+2)  Object
+1)  Object IF ELSE /
+
+
+// 1 TERNARY OPERATOR
+// 2 IF ELSE
+// 3 SWICH CASE 
+// 4 FOR LOOP

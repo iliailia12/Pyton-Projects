@@ -1,0 +1,29 @@
+12) ternary opoerator Object 
+11) ARR
+10) Arrow function  
+9)  helper functions
+8)  TERNARY OPERATOR 
+7)  IF ELSE 
+6)  SWICH CASE 
+5)  FOR LOOP 
+4)  RETURN 
+3)  to work on the website
+2)  Object 
+1)  Object IF ELSE  
+
+
+13while
+14do...while
+15for...of
+16for...in
+17Array.map
+18Array.filter
+19Array.reduce
+20Logical AND
+21Logical OR
+22Nullish coalescing
+23Optional chaining
+24try / catch
+25  Callback function
+26) Promise 
+27) Class-based
