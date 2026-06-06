@@ -4,6 +4,7 @@
 // 11) ARR
 // 10) Arrow function  
 // 9)  helper functions
+
 // 8)  TERNARY OPERATOR 
 // 7)  IF ELSE 
 // 6)  SWICH CASE 
@@ -12,7 +13,7 @@
 // 3)  to work on the website
 // 2)  Object 
 // 1)  Object IF ELSE  
-
+// Currying 
 
 // 13) while
 // 14) do...while

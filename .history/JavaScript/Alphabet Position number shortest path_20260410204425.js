@@ -12,7 +12,7 @@
 // 3)  to work on the website
 // 2)  Object 
 // 1)  Object IF ELSE  
-
+// Currying 
 
 // 13) while
 // 14) do...while
